@@ -1,16 +1,16 @@
-# Lesson 3 - Conditionals & Randomisation
+# Lesson 3: Conditionals & Randomisation
 
 ##Introduction
 
 If we want to make some meaningful and interesting musical structures, we need to learn some meaningful and interesting programming structures.
 
-## Learning Objectives
+## Learning objectives
 
 - Know that computer programs can make decisions, and that a simple form of decision is called a conditional.
 - Understand that computer programs can contain random acts.
 - Be able to use comments to explain interesting parts of a program.
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students will be able to:
 
@@ -31,7 +31,7 @@ If we want to make some meaningful and interesting musical structures, we need t
 - Nest `if` statements inside other `if` statements.
 - Understand that comments are about communicating intent.
 
-##Lesson Summary
+##Lesson summary
 
 -  Simple use of randomisation.
 -  Using conditionals to make decisions.
@@ -42,7 +42,7 @@ If we want to make some meaningful and interesting musical structures, we need t
 
 Pupils are first invited to set up and connect their Raspberry Pi hardware. They may then load the Sonic Pi application and find their work from the previous lesson. Through questioning, select students to explain what they did in the previous lesson. 
 
-##Main Development
+##Main development
 
 1. Pupils should be should be shown how to add some randomisation to their code. This can be achieved by using the statement `rand(10)`, which returns a random value between `0` and `10` (from 0 up to but not including the number you specify). You can specify other numbers for larger ranges; for instance, `rand(20)` will return values from `0` to `20`. Let’s use this in our program by adding our random number to a note with the `+` operator:
 
@@ -77,7 +77,6 @@ Pupils are first invited to set up and connect their Raspberry Pi hardware. They
 5. The first line should also be discussed; this is equivalent to a coin toss in that `rand(1)` returns a random value between `0` and `1`, and we’re testing to see if that random value is less than 0.5. For the advanced pupils, you may wish to point out that changing the 0.5 to different values will affect the probability of which branch is selected. For example, a value of 0.1 would mean that (on average) every 10 runs the first branch be selected only once, and the second branch will be selected 9 times.
 
 6. The pupils are then invited to press the play button a number of times so that they can hear the different branches being executed, the decision of which branch to execute being random each time.
-
 
 7. Pupils are invited to play around with the constructs of this lesson, in addition to everything they’ve learned so far, to design a simple musical program.
 
