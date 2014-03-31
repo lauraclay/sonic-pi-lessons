@@ -1,16 +1,16 @@
-# Lesson 5 - Concurrency
+# Lesson 5: Concurrency
 
 ##Introduction
 
 If we want to make some meaningful and interesting musical structures, we need to learn some meaningful and interesting programming structures.
 
-## Learning Objectives
+## Learning objectives
 
 - Know that computers can multitask (do many things at once).
 - Understand that a simple program has one flow of control; in other words, it has one thread of execution but programs can have multiple such threads.
 - Be able to program multiple threads that work at the same time (concurrently).
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students will be able to:
 
@@ -25,7 +25,7 @@ If we want to make some meaningful and interesting musical structures, we need t
 
 - Understand that threads have a separate flow of control.
 
-##Lesson Summary
+##Lesson summary
 
 -   Overview of the role of the control card and control flow. 
 -   Introduction to threads.
@@ -35,7 +35,7 @@ If we want to make some meaningful and interesting musical structures, we need t
 
 Pupils are first invited to set up and connect their Raspberry Pi hardware. They may then load the Sonic Pi application and find their work from the previous lesson. Through questioning, select students to explain what they did in the previous lesson. 
 
-##Main Development
+##Main development
 
 1. Pupils are asked to form a simple line with the original computation cards and act out the program. Ensure that the control card is correctly handed down the line like a relay baton.
 An example program might be:
