@@ -1,10 +1,10 @@
 ## Sonic Pi Scheme of Work
 
-![alt text](\sonic-pi.png)
+![](\sonic-pi.png)
 
 ###Introduction
 
-[Sonic Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/) is an open source programming environment developed by Dr Sam Aaron, designed to explore and teach programming concepts through the process of creating new sounds. This is a scheme of work which emphasises the importance of creativity in the learning process and gives users the control to turn their sonic ideas into reality.
+[Sonic Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/) is an open-source programming environment, developed by Dr Sam Aaron, designed to explore and teach programming concepts through the process of creating new sounds. This is a scheme of work which emphasises the importance of creativity in the learning process and gives users the control to turn their sonic ideas into reality.
 
 This scheme of work is specifically targetted towards introductory KS3 Computer Science. This has been developed in harmony with the new Computing curriculum in the UK. This scheme of work is the result of a close collaboration between Computing & ICT teachers and researchers at the University of Cambridge. It has been successfully trialled at a number of schools.
 
@@ -25,13 +25,13 @@ Over the course of six lessons, students will learn:
 	- Concurrency
 	
 
-###Computing Programme of Study Met:
+###Computing Programme of Study Met
 
-**KS3:**
+####KS3:
 
-- Use 2 or more programming languages, at least one of which is textual, to solve a variety of computational problems; make appropriate use of data structures [for example, lists, tables or arrays]; design and develop modular programs that use procedures or functions.
+- Use 2 or more programming languages, at least one of which is textual, to solve a variety of computational problems; make appropriate use of data structures [for example, lists, tables, or arrays]; design and develop modular programs that use procedures or functions.
 
-**Partially meets:**
+####Partially meets:
 
 - Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
 - Understand how instructions are stored and executed within a computer system; understand how data of various types (including text, sounds and pictures) can be represented and manipulated digitally, in the form of binary digits.
@@ -42,12 +42,12 @@ Over the course of six lessons, students will learn:
 
 For the majority of the lesson, it is suggested that work is carried out by students in pairs. Each pair should have access to the standard equipment described below. In addition, it is suggested that you have your own teacher setup connected with a speaker for the demonstration sections.
 
-- A Raspberry Pi per pair;
-- Latest NOOBS SD card with the Sonic Pi software installed per pair; 
-- A keyboard and mouse connected to the RPi per pair;
-- A monitor connected to the RPi per pair;
-- A headphone splitter connected to the RPi audio jack per pair;
-- A pair of headphones connected to the splitter per student.
+- A Raspberry Pi per pair
+- Latest NOOBS SD card with the Sonic Pi software installed per pair 
+- A keyboard and mouse connected to the RPi per pair
+- A monitor connected to the RPi per pair
+- A headphone splitter connected to the RPi audio jack per pair
+- A pair of headphones connected to the splitter per student
 
 
 ###Lessons
