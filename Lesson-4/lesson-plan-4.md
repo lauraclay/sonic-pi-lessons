@@ -1,16 +1,16 @@
-# Lesson 4 - Data Structures & Algorithms
+# Lesson 4: Data Structures & Algorithms
 
 ##Introduction
 
 Although the world is constructed from many tiny pieces, this isn’t how we see it. Instead, we perceive useful structures and aggregations of these pieces. Rather than individual atoms or molecules, we see trees, people, bicycles and so on. In our previous lessons the information we have dealt with has been simple numbers: numbers for notes, numbers for time, even numbers for chance. Data structures allow us to compose and aggregate these simple data into useful structural forms. One of the simplest of these aggregate structures is the list which we will discuss in this lesson. Once we have structures like the list, we can start using a useful library of mini-programs which can perform operations such as sorting and shuffling the list.
 
-## Learning Objectives
+## Learning objectives
 
 - Know that computer programs can make decisions, and that a simple form of decision is called a conditional.
 - Understand that computer programs can contain random acts.
 - Be able to use comments to explain interesting parts of a program.
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students will be able to:
 
@@ -26,9 +26,9 @@ Although the world is constructed from many tiny pieces, this isn’t how we see
 ###Some students will be able to:
 
 - Describe the steps for an implementation of sort (i.e. bubble sort).
-- Describe data algorithms other than sort and shuffle which are useful for lists, such as repeat, split in half and reverse.
+- Describe data algorithms other than sort and shuffle which are useful for lists, such as repeat, split in half, and reverse.
 
-##Lesson Summary
+##Lesson summary
 
 -  Numbers as a kind of data.
 -  Introduction to lists.
@@ -40,11 +40,11 @@ Although the world is constructed from many tiny pieces, this isn’t how we see
 
 Pupils are first invited to set up and connect their Raspberry Pi hardware. They may then load the Sonic Pi application and find their work from the previous lesson. Through questioning, select students to explain what they did in the previous lesson. 
 
-##Main Development
+##Main development
 
 1. Pupils should be asked what kind of information they have been using in the previous lessons; in other words, the things they’ve been able to change. They have been able to change the time to sleep and the note to play. Ask them what kind of information this is; they’re all numbers. Explain that a number is a kind of data, and there are many others that computers may understand.
 
-2. Explain to the pupils that although numbers are one of the most useful forms of data, it’s also very handy to represent a list of numbers. Ask them if they can think of any things that could be represented by a list of numbers; for example, the finish times of runners in a race, the numbers drawn in the lottery and the notes of a bass line.
+2. Explain to the pupils that although numbers are one of the most useful forms of data, it’s also very handy to represent a list of numbers. Ask them if they can think of any things that could be represented by a list of numbers; for example, the finish times of runners in a race, the numbers drawn in the lottery, and the notes of a bass line.
 
 3. Invite the pupils to enter the following code into a new worksheet and press play:
 
